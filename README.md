@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Fahmi Alamsyah Nugroho</h1>
+<h3 align="center">Student of CCIT Faculty of Engineering, University of Indonesia</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=napster230503&label=Profile%20views&color=0e75b6&style=flat" alt="napster230503" /> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Napster230503?tab=repositories](https://github.com/Napster230503?tab=repositories)
+
+- 📫 How to reach me **alamsyahfahmi99@gmail.com**
+
+- ⚡ Fun fact **smart, honest, trustworthy, responsible, and hardworking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/fahmialamsyahn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahmialamsyahn1" height="30" width="40" /></a>
 <a href="https://fb.com/fahmi nugroho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahmi nugroho" height="30" width="40" /></a>
 <a href="https://instagram.com/fahmi14_58_38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahmi14_58_38" height="30" width="40" /></a>
 <a href="https://discord.gg/Fahmi.A.N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fahmi.A.N" height="30" width="40" /></a>
