@@ -16,7 +16,7 @@
 <a href="https://fb.com/fahmi nugroho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahmi nugroho" height="30" width="40" /></a>
 <a href="https://instagram.com/fahmi14_58_38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahmi14_58_38" height="30" width="40" /></a>
 <a href="https://discord.gg/Fahmi.A.N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fahmi.A.N" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <hr></hr>
